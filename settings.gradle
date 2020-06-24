@@ -1,0 +1,2 @@
+rootProject.name = "Jatpack Compose"
+include ':app'
